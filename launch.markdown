@@ -34,7 +34,7 @@ Raji Foundation was formally launched on Wed. 28th May, 2014.
 
 **Invocation:** Dr. K R Aarya
 
-**Welcome & Introduction:** Prof. C N Krishnan, Chairman of the Foundatio
+**Welcome & Introduction:** Prof. C N Krishnan, Chairman of the Foundation
 
 **Address:** Prof. Jothi Kumaravel, Principal, Ethiraj College for Wome
 
