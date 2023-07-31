@@ -4,7 +4,7 @@ title: Support Us
 permalink: support/
 ---
 
-<p style="text-align: center;"><strong>Seeking Support</strong></p>
+<p style="text-align: center;"><strong>Support Us</strong></p>
 
 
 Being a purely voluntary effort, the Foundation needs many forms of support for sustaining and expanding its activities, such as the following:
