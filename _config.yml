@@ -53,6 +53,7 @@ header_pages:
   - story.markdown
   - people.markdown
   - flier.markdown
+  - fellowship.markdown
   - supportus.markdown
   - contactus.markdown
 # Exclude from processing.
