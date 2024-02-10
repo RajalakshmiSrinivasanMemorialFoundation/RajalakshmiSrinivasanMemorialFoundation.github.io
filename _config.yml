@@ -52,8 +52,8 @@ header_pages:
   - schools.markdown
   - story.markdown
   - people.markdown
-  - flier.markdown
   - fellowship.markdown
+  - flier.markdown
   - supportus.markdown
   - contactus.markdown
 # Exclude from processing.
