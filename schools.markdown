@@ -15,6 +15,7 @@ permalink: schools/
 
 <p style="text-align:justify; text-justify: inter-word">Below are  listed some activities that the Foundation has  pursued with some of the schools in the  Chennai region over time.Much of our efforts in this regard have been with the Avvai Home   and Girls' School in Adyar which is where Ms. Rajalakshmi had initiated an carried out her work during 2003-2013, and which our Foundation has attempted to take forward.</p>
 
+<br>
 <p style="text-align: center;"><strong>Supplementing and Complementing Classroom work</strong></p>
 
 <em>Coaching Classes for classes 11 and 12:</em>
@@ -62,37 +63,25 @@ permalink: schools/
 
 <p style="text-align:justify; text-justify: inter-word">Our Foundation works to empower girl students from under privileged backgrounds by assisting and supporting their education beyond school. Some students need financial support to stay in a suitable hostel during the time of their college studies. Our Foundation has been meeting the hostel fees of a few of the meritorious students from under privileged background for the past three years to enable them to complete their college education and become financially independent. It also provides counseling and career guidance to these students and mentor them.</p>
 
-<strong>Tamil Translation of Dr. Muthulakshmi Reddy’s Autobiography</strong>
+<!-- <strong>Tamil Translation of Dr. Muthulakshmi Reddy’s Autobiography</strong>
 <br>
 
-<p style="text-align:justify; text-justify: inter-word">The Autobiography of Dr. Muthulakshmi Reddy, the founder of Avvai Home, was first published in English in 1964, and is an authentic record of the multifaceted and rich life Dr.Reddy led as a true pioneer in many fields – covering all aspects such as personal, family, professional, scientific, educational, social, cultural and political. Though narrated as the story of one person, the book covers a breath taking canvass of events, personalities, relationships, institutions and movements spread over 6 decades and more - a period that has profoundly impacted on the destiny of our nation. The  [<span style="text-decoration: underline">Tamil Translation</span>](../dmrbook/) of this important work was carried out by Prof. S. Rajalakshmi during 2012-13, and was  published jointly by Avvai Home and our Foundation, with the support of Cre-A Publishers, and was [<span style="text-decoration: underline">formally released</span>](../avvaihome/) on 30th July 2014. </p>
-
+<p style="text-align:justify; text-justify: inter-word">The Autobiography of Dr. Muthulakshmi Reddy, the founder of Avvai Home, was first published in English in 1964, and is an authentic record of the multifaceted and rich life Dr.Reddy led as a true pioneer in many fields – covering all aspects such as personal, family, professional, scientific, educational, social, cultural and political. Though narrated as the story of one person, the book covers a breath taking canvass of events, personalities, relationships, institutions and movements spread over 6 decades and more - a period that has profoundly impacted on the destiny of our nation. The  [<span style="text-decoration: underline">Tamil Translation</span>](../dmrbook/) of this important work was carried out by Prof. S. Rajalakshmi during 2012-13, and was  published jointly by Avvai Home and our Foundation, with the support of Cre-A Publishers, and was [<span style="text-decoration: underline">formally released</span>](../avvaihome/) on 30th July 2014. </p> -->
+<br>
 <p style="text-align: center;"><strong>Our Story Cards Program</strong></p>
 
 <p style="text-align:justify; text-justify: inter-word">Our program on Story Cards in multiple languages, detailed [<span style="text-decoration: underline">here</span>](../story/) is primarily aimed at improving the reading and comprehension abilities of underprivileged children.</p>
 
 <br>
-<strong>Our Fellowship Program</strong>
-<br>
+<p style="text-align: center;"><strong>Our Fellowship Program</strong></p>
 
 <p style="text-align:justify; text-justify: inter-word">The Foundation has initiated a Student Fellowship Program for college students willing to work as volunteers for assisting the school children in their curricular and co/extra curricular activities as directed by the Foundation. For details see [<span style="text-decoration: underline">here</span>](../fellowship/).</p>
 
 <br>
-<strong>Our work with Govt. Schools in Chromepet</strong>
+<p style="text-align: center;"><strong>Our work with Govt. Schools in Chromepet</strong></p>
+
+<p style="text-align:justify; text-justify: inter-word">We have been working closely with three government schools in the Chromepet area, the details of which can be seen [<span style="text-decoration: underline">here</span>](../chromepetschools/).</p>
+
 <br>
-
-<p style="text-align:justify; text-justify: inter-word">We are presently working with the following three Higher Secondary Schools (HSS) in and around Chromepet:</p>
-
-1. <p style="text-align:justify; text-justify: inter-word">Municipal HSS, Hastinapuram</p>
-2. <p style="text-align:justify; text-justify: inter-word">Govt. Boy's HSS, Chromepet</p>
-3. <p style="text-align:justify; text-justify: inter-word">Govt. HSS, Zamine Pallavaram</p>
-
-<p style="text-align:justify; text-justify: inter-word">Our work with these schools consists of 3 broad types of activities:</p>
-
-<p style="text-align:justify; text-justify: inter-word">A. Providing assistance to the students of Class 11 and 12 in their subjects of study such as Maths, Physics, Chemistry, Biology, Computer Science, English. For this our Fellows from MIT visit the schools during 4.30 – 6.00 PM on working days and engage with the students who have been identified by the schools. Some pictures of our volunteers assisting the students of these three schools can be seen [<span style="text-decoration: underline">here</span>](../trainersphotos/).</p>
-
-<p style="text-align:justify; text-justify: inter-word">B. Conducting Computer/IT Training Programs for Class 11 and 12 students in the MIT Computer Centre Lab during 9.00 – 12.00 on Saturdays. An open-ended list of topics taken up in these classes are given [<span style="text-decoration: underline">here</span>](../ittraining/). Around 70 students from these three schools have been participating in these hands-on classes from 6th July 2024 , and they are given Tea/Snacks in the morning and Lunch at noon. Some snaps of the Lab classes can be seen [<span style="text-decoration: underline">here</span>](../ittrainingphotos/).</p>
-
-<p style="text-align:justify; text-justify: inter-word">C. Taking up wall/mural paintings in schools, engaging with interested students in music, arts, skits, videography etc.</p>
-
-<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go Back</a></p>
+<p style="text-align: center;"><a href="#" onClick="history.go(-1)">Go
+Back</a></p>
